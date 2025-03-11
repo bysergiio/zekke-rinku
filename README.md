@@ -15,4 +15,4 @@ Tipo/Género:
 Zekke es una chica que trabaja como repartidora en la pizzería de sus padres. En un reparto tiene un accidente de moto donde, debido a un choque de campos electromagnéticos, consigue el poder de leer las mentes. Ella usará este poder para enfrentarse a la mafia que amenaza a su familia y su vida pacífica en el Akihabara de 2099.
 
 ### Personaje
-![ficha zekke](fichazekke.jpg)
+![ficha zekke](ficha zekke.jpg)
