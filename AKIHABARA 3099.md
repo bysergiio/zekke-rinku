@@ -24,10 +24,10 @@ Este punto de inflexión hace que nuestra protagonista no busque venganza ni jus
 
 ### Conclusiones y Valoración del Equipo
 Autores
-- :woman: Natalia Cantero Salinas
-- :man: Álvaro Las Heras García
-- :man: Sergio Manzano Martín
-- :woman: Darlyn Pérez González
+- 💮​: Natalia Cantero Salinas
+- 💮​: Álvaro Las Heras García
+- 💮​: Sergio Manzano Martín
+- 💮​: Darlyn Pérez González
 ------
 Marzo, 2025
 
