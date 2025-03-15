@@ -1,11 +1,5 @@
 # AKIHABARA 3099:
 ### *Las mentiras y el silencio no sirven contra su mente, el dinero sí*
-Autores
-- :woman: Natalia Cantero Salinas
-- :man: Álvaro Las Heras García
-- :man: Sergio Manzano Martín
-- :woman: Darlyn Pérez González
-
 Tipo/Género:  
 - [x] Fiction/Ciberpunk  
 - [ ] Reality/tribus urbanas  
@@ -29,7 +23,11 @@ Este punto de inflexión hace que nuestra protagonista no busque venganza ni jus
 - [¿Qué personaje eres de Akihabara 3099? ](https://app.Lumi.education/run/FhLMIt)
 
 ### Conclusiones y Valoración del Equipo
-
+Autores
+- :woman: Natalia Cantero Salinas
+- :man: Álvaro Las Heras García
+- :man: Sergio Manzano Martín
+- :woman: Darlyn Pérez González
 ------
 Marzo, 2025
 
