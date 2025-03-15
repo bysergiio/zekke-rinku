@@ -24,7 +24,8 @@ Este punto de inflexión hace que nuestra protagonista no busque venganza ni jus
 
 ### Conclusiones y Valoración del Equipo
 Estamos bastantes orgullosos del trabajo que hemos realizado. Desde la primera clase hemos utilizado las herramientas brindadas y con cierta iniciativa e ilusión hemos creado lo que vemos como una muy buena historia de un antiheroe en un futuro cyberpunk.
-Autores
+
+*Autores*
 - 💮​: Natalia Cantero Salinas
 - 💮​: Álvaro Las Heras García
 - 💮​: Sergio Manzano Martín
