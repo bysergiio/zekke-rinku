@@ -26,7 +26,7 @@ Este punto de inflexión hace que nuestra protagonista no busque venganza ni jus
 ### Conflicto
 
 ### Enlaces Interactivos
-· [¿Qué personaje eres de Akihabara 3099? ](https://app.Lumi.education/run/FhLMIt)
+- [¿Qué personaje eres de Akihabara 3099? ](https://app.Lumi.education/run/FhLMIt)
 
 ### Conclusiones y Valoración del Equipo
 
