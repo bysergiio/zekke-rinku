@@ -1,5 +1,5 @@
 # AKIHABARA 3099:
-### Las mentiras y el silencio no sirven contra su mente, el dinero sí
+### *Las mentiras y el silencio no sirven contra su mente, el dinero sí*
 Autores
 - :woman: Natalia Cantero Salinas
 - :man: Álvaro Las Heras García
