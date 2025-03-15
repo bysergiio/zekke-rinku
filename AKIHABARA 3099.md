@@ -1,4 +1,4 @@
-# (Nombre da la historia):
+# AKIHABARA 3099:
 ### Las mentiras y el silencio no sirven contra su mente, el dinero sí
 Autores
 - :woman: Natalia Cantero Salinas
