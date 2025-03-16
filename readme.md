@@ -1,4 +1,4 @@
-# AKIHABARA 3099:
+# AKIHABARA 3099
 ### *Las mentiras y el silencio no sirven contra su mente, el dinero sí*
 Tipo/Género:  
 - [x] Fiction/Ciberpunk  
