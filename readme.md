@@ -26,8 +26,9 @@ Sin embargo, a medida que se adentra más en el submundo de la ciudad y profundi
 - [Seguir la historia de la entrega de una pizza peperoni](https://arcweave.com/app/project/25lbPNp6D4)
 - [Teaser](https://www.figma.com/proto/r3tSUnwvSXYVAdxb7BYcwX/Teaser-Instagram-Zekke?node-id=0-1&t=NF1c2Sbbd3Ci7NfH-1)
 
-### Proyecto en Ren'Py
-
+### Ren'Py
+Este proyecto adentra al usuario en un día de la vida de nuestra protagonista Zekke.
+La licencia CC para nuestro trabajo es de Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-sa).
 
   
 ### Conclusiones y Valoración del Equipo
