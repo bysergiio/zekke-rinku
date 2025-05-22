@@ -27,7 +27,7 @@ Sin embargo, a medida que se adentra más en el submundo de la ciudad y profundi
 - [Teaser](https://www.figma.com/proto/r3tSUnwvSXYVAdxb7BYcwX/Teaser-Instagram-Zekke?node-id=0-1&t=NF1c2Sbbd3Ci7NfH-1)
 
 ### Ren'Py
-Este proyecto adentra al usuario en un día de la vida de nuestra protagonista Zekke.
+Este proyecto adentra al usuario en un día de la vida de nuestra protagonista Zekke. A través de las elecciones elegidas, la protagonista vivirá unos acontecimientos u otros.
 La licencia CC para nuestro trabajo es de Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-sa).
 
   
