@@ -25,6 +25,7 @@ Sin embargo, a medida que se adentra más en el submundo de la ciudad y profundi
 - [¿Qué personaje eres de Akihabara 3099? ](https://app.Lumi.education/run/FhLMIt)
 - [Seguir la historia de la entrega de una pizza peperoni](https://arcweave.com/app/project/25lbPNp6D4)
 - [Teaser](https://www.figma.com/proto/r3tSUnwvSXYVAdxb7BYcwX/Teaser-Instagram-Zekke?node-id=0-1&t=NF1c2Sbbd3Ci7NfH-1)
+- [Videojuego en Itch.io] (https://nataliacs.itch.io/zekke-rinku) 
 
 ### Ren'Py
 Este proyecto adentra al usuario en un día de la vida de nuestra protagonista Zekke. A través de las elecciones elegidas, la protagonista vivirá unos acontecimientos u otros.
